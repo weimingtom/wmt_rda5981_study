@@ -8,3 +8,6 @@ http://www.51hei.com/bbs/dpj-123966-1.html
 https://www.electrodragon.com/w/RDA5981  
 https://github.com/Edragon/RDA-RDA5981  
 https://hackaday.com/tag/rda5981/  
+
+## 在RDA上使用mbed编译运行KWS  
+https://blog.csdn.net/qq_41011336/article/details/82591863  

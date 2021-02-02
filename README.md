@@ -16,3 +16,7 @@ https://blog.csdn.net/qq_41011336/article/details/82591863
 HF_LPT130, HF-LPT130  
 uno-91h, UNO_91H  
 https://help.aliyun.com/document_detail/161049.html  
+
+## ROS mbed-os mbed-cli 本地编译  
+https://blog.csdn.net/afxyr88622/article/details/102022801  
+https://github.com/adamgreen/gcc4mbed  

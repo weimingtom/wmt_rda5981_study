@@ -20,3 +20,10 @@ https://help.aliyun.com/document_detail/161049.html
 ## ROS mbed-os mbed-cli 本地编译  
 https://blog.csdn.net/afxyr88622/article/details/102022801  
 https://github.com/adamgreen/gcc4mbed  
+
+## RDA5981_SDK_MbedOS515_V1.3.6.7z  
+https://download.csdn.net/download/weixin_48389301/12498042  
+search baidupan, RDA5981_SDK_MbedOS515_V1.3.6.7z  
+
+## 百度dueros人工智能-RDA5981(R01开发板)-学习心得-入门及硬件连接  
+https://blog.csdn.net/happy896235/article/details/85999414  

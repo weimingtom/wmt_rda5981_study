@@ -27,3 +27,6 @@ search baidupan, RDA5981_SDK_MbedOS515_V1.3.6.7z
 
 ## 百度dueros人工智能-RDA5981(R01开发板)-学习心得-入门及硬件连接  
 https://blog.csdn.net/happy896235/article/details/85999414  
+
+## UNO-91H    
+https://github.com/alibaba/AliOS-Things/tree/rel_3.0.0/board/uno-91h  

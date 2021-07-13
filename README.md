@@ -30,3 +30,7 @@ https://blog.csdn.net/happy896235/article/details/85999414
 
 ## UNO-91H    
 https://github.com/alibaba/AliOS-Things/tree/rel_3.0.0/board/uno-91h  
+
+## RDA5981_WIFI模块学习经验.pdf  
+https://www.icxbk.com/ask/detail?tid=11774  
+search baidupan, RDA5981_WIFI模块学习经验.pdf  

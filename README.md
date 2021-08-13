@@ -34,3 +34,9 @@ https://github.com/alibaba/AliOS-Things/tree/rel_3.0.0/board/uno-91h
 ## RDA5981_WIFI模块学习经验.pdf  
 https://www.icxbk.com/ask/detail?tid=11774  
 search baidupan, RDA5981_WIFI模块学习经验.pdf  
+
+## RDA5981_WIFI模块学习经验  
+http://www.51hei.com/bbs/dpj-123966-1.html  
+
+## rda5981, 在RDA上使用mbed编译运行KWS  
+https://www.pianshen.com/article/3924524102/  
